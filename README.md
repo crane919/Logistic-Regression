@@ -1,1 +1,1 @@
-# LDA-from-scratch
+# Logistic-Regression
